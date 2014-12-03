@@ -49,11 +49,7 @@ repositories:
 target_repository: http://54.67.51.1/ubuntu/building
 targets:
   ubuntu:
-    saucy:
-      amd64:
-      i386:
     trusty:
-      amd64:
-      i386:
+      armhf:
 type: release-build
 version: 2

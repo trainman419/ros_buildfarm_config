@@ -46,6 +46,6 @@ repositories:
 targets:
   ubuntu:
     trusty:
-      amd64:
+      armhf:
 type: source-build
 version: 2
